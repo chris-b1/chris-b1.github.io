@@ -1,0 +1,7 @@
+- Email
+  - [[https://mail.google.com/mail/u/2/#inbox][Work Email]]
+  - [[https://www.google.com/calendar/b/2/render#h][Work Calendar]]
+  - [[https://mail.google.com/mail/u/0/#inbox][Personal Email]]
+- News
+  - [[https://news.ycombinator.com/][Hacker News]]
+  - [[https://www.reddit.com/][Reddit]]
